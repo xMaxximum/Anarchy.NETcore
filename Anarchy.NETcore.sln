@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anarchy.NETcore", "Anarchy.NETcore.csproj", "{8F7A4858-AF34-46E7-AB3D-A4AEBC6D98DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F7A4858-AF34-46E7-AB3D-A4AEBC6D98DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F7A4858-AF34-46E7-AB3D-A4AEBC6D98DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F7A4858-AF34-46E7-AB3D-A4AEBC6D98DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F7A4858-AF34-46E7-AB3D-A4AEBC6D98DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10855F27-3F15-4D23-84A8-450A8941179B}
+	EndGlobalSection
+EndGlobal
